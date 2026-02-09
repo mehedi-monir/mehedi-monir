@@ -30,9 +30,9 @@
 
 ## 🎯 About Me
 - Location: Gaibandha, Bangladesh 🇧🇩
-- Education: CSE Student
+- Education: BSC Engg of CSE
 - Current Focus: Deep Learning, NLP, Machine Learning
-- Interests: AI/ML, Open Source, Linux, Mobile Development
+- Interests: AI/ML, Open Source, Linux
 
 
 ---
