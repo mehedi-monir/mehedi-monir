@@ -1,54 +1,65 @@
-<!-- Unique Header with Gradient -->
 <div align="center">
-  
-# 💻 Mehedi Hasan Monir
 
-### Computer Science & Engineering Student | AI/ML Enthusiast | Linux Lover
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Mehedi%20Hasan%20Monir&fontSize=50&fontColor=00D9FF&animation=fadeIn&fontAlignY=35" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Intelligent+Systems;Exploring+Deep+Learning+%26+NLP;Flutter+%7C+Web+%7C+Machine+Learning" alt="Typing SVG" />
+### 🎓 Computer Science & Engineering Student | 🤖 AI/ML Enthusiast | 🐧 Linux Lover
 
-[![GitHub followers](https://img.shields.io/github/followers/mehedi-monir?style=social)](https://github.com/mehedi-monir)
-[![Profile Views](https://komarev.com/ghpvc/?username=mehedi-monir&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/mehedi-monir)
+<a href="https://github.com/mehedi-monir">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Building+Intelligent+Systems;Exploring+Deep+Learning+%26+NLP;Flutter+%7C+Web+%7C+Machine+Learning" alt="Typing SVG" />
+</a>
+
+<br>
+
+<a href="https://github.com/mehedi-monir">
+  <img src="https://img.shields.io/github/followers/mehedi-monir?style=social&label=Follow&color=00D9FF" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/mehedi-monir">
+  <img src="https://komarev.com/ghpvc/?username=mehedi-monir&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **“Allah does not burden a soul beyond what it can bear.”** > — *Surah Al-Baqarah 2:286*
+
+> **“Indeed, with hardship comes ease.”** > — *Surah Ash-Sharh 94:6*
 
 </div>
 
 ---
 
-<div align="center">
-
-> **“Allah does not burden a soul beyond what it can bear.”**  
-> — *Surah Al-Baqarah 2:286*
-
-> **“Indeed, with hardship comes ease.”**  
-> — *Surah Ash-Sharh 94:6*
-
-</div>
-
----
-
-
-## 🎯 About Me
+## 👨‍💻 About Me
 
 ```python
 class MehediMonir:
     def __init__(self):
+        self.name = "Mehedi Hasan Monir"
         self.location = "Gaibandha, Bangladesh 🇧🇩"
         self.education = "CSE Student"
-        self.current_focus = ["Deep Learning", "NLP", "Machine Learning"]
-        self.interests = ["AI/ML", "Open Source", "Linux", "Mobile Development"]
+        self.interests = [
+            "Deep Learning", 
+            "NLP", 
+            "Computer Vision", 
+            "Open Source"
+        ]
         
     def get_tech_stack(self):
         return {
-            "languages": ["Python", "Java", "C", "C++", "Dart", "JavaScript"],
-            "ai_ml": ["PyTorch", "TensorFlow", "Scikit-learn", "Pandas", "NumPy"],
-            "mobile": ["Flutter", "Firebase"],
-            "web": ["PHP", "HTML/CSS", "JavaScript"],
+            "languages": ["Python", "Java", "C++", "Dart", "JavaScript"],
+            "ai_ml": ["PyTorch", "TensorFlow", "Scikit-learn", "Pandas"],
+            "mobile_web": ["Flutter", "Firebase", "HTML/CSS", "PHP"],
             "databases": ["MongoDB", "MySQL", "Oracle"],
-            "tools": ["Git", "VSCode", "Linux (Fedora KDE)"]
+            "os": ["Linux (Fedora KDE)", "Windows"]
         }
     
     def current_status(self):
-        return "🚀 Learning advanced AI/ML techniques | 🐧 Linux lover"
+        return {
+            "focus": "🚀 Learning Advanced AI/ML Architectures",
+            "mood": "🐧 Linux & Coffee"
+        }
 ```
 
 ---
