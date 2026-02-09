@@ -22,8 +22,6 @@
 > **“Indeed, with hardship comes ease.”**  
 > — *Surah Ash-Sharh 94:6*
 
-> **“Exploration is beautiful and endless, driven by curiosity and shaped by patience.”**
-
 </div>
 
 ---
@@ -145,7 +143,7 @@ class MehediMonir:
 
 <div align="center">
 
-### 💭 *"To be or not to be, that is the question."* — William Shakespeare
+### 💭 *"Exploration is beautiful and endless, driven by curiosity and shaped by patience."* 
 
 
 <sub>⭐️ From [mehedi-monir](https://github.com/mehedi-monir) | Built with 💙 and lots of ☕</sub>
