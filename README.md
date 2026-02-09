@@ -16,10 +16,13 @@
 ---
 
 <div align="center">
-<span style="color:#00D9FF"><b>“Allah does not burden a soul beyond what it can bear.”</b></span><br>
-<span style="color:#C9D1D9"><i>— Surah Al-Baqarah 2:286</i></span><br><br>
-<span style="color:#00D9FF"><b>“Indeed, with hardship comes ease.”</b></span><br>
-<span style="color:#C9D1D9"><i>— Surah Ash-Sharh 94:6</i></span>
+
+**“Allah does not burden a soul beyond what it can bear.”**  
+ — *Surah Al-Baqarah 2:286*
+
+**“Indeed, with hardship comes ease.”**  
+ — *Surah Ash-Sharh 94:6*
+
 </div>
 
 
