@@ -32,11 +32,11 @@
 ```python
 class MehediMonir:
     def __init__(self):
-        self.location = "Gaibandha, Bangladesh 🇧🇩"
+        self.location = "Gaibandha, Bangladesh"
         self.education = "CSE Student"
         self.current_focus = ["Deep Learning", "NLP", "Machine Learning"]
         self.interests = ["AI/ML", "Open Source", "Linux", "Mobile Development"]
-        
+
     def get_tech_stack(self):
         return {
             "languages": ["Python", "Java", "C", "C++", "Dart", "JavaScript"],
@@ -46,9 +46,9 @@ class MehediMonir:
             "databases": ["MongoDB", "MySQL", "Oracle"],
             "tools": ["Git", "VSCode", "Linux (Fedora KDE)"]
         }
-    
+
     def current_status(self):
-        return "🚀 Learning advanced AI/ML techniques | 🐧 Linux lover"
+        return "Learning advanced AI/ML techniques | Linux lover"
 ```
 
 ---
