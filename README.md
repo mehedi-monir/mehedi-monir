@@ -16,14 +16,12 @@
 ---
 
 <div align="center">
-
-> **“Allah does not burden a soul beyond what it can bear.”**  
-> — *Surah Al-Baqarah 2:286*
-
-> **“Indeed, with hardship comes ease.”**  
-> — *Surah Ash-Sharh 94:6*
-
+<span style="color:#00D9FF"><b>“Allah does not burden a soul beyond what it can bear.”</b></span><br>
+<span style="color:#C9D1D9"><i>— Surah Al-Baqarah 2:286</i></span><br><br>
+<span style="color:#00D9FF"><b>“Indeed, with hardship comes ease.”</b></span><br>
+<span style="color:#C9D1D9"><i>— Surah Ash-Sharh 94:6</i></span>
 </div>
+
 
 ---
 
@@ -75,27 +73,6 @@
 </td>
 </tr>
 </table>
-
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehedi-monir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-monir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-monir&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi-monir&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
----
-
 
 
 ---
