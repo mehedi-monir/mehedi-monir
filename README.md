@@ -5,7 +5,8 @@
 
 ### Computer Science & Engineering Student | AI/ML Enthusiast | Linux Lover
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Intelligent+Systems;Exploring+Deep+Learning+%26+NLP;Flutter+%7C+Web+%7C+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Exploration+is+beautiful+and+endless,+driven+by+curiosity+and+shaped+by+patience." alt="Typing SVG" />
+
 
 [![GitHub followers](https://img.shields.io/github/followers/mehedi-monir?style=social)](https://github.com/mehedi-monir)
 [![Profile Views](https://komarev.com/ghpvc/?username=mehedi-monir&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/mehedi-monir)
@@ -26,30 +27,12 @@
 
 ---
 
-
 ## 🎯 About Me
+- Location: Gaibandha, Bangladesh 🇧🇩
+- Education: CSE Student
+- Current Focus: Deep Learning, NLP, Machine Learning
+- Interests: AI/ML, Open Source, Linux, Mobile Development
 
-```python
-class MehediMonir:
-    def __init__(self):
-        self.location = "Gaibandha, Bangladesh"
-        self.education = "CSE Student"
-        self.current_focus = ["Deep Learning", "NLP", "Machine Learning"]
-        self.interests = ["AI/ML", "Open Source", "Linux", "Mobile Development"]
-
-    def get_tech_stack(self):
-        return {
-            "languages": ["Python", "Java", "C", "C++", "Dart", "JavaScript"],
-            "ai_ml": ["PyTorch", "TensorFlow", "Scikit-learn", "Pandas", "NumPy"],
-            "mobile": ["Flutter", "Firebase"],
-            "web": ["PHP", "HTML/CSS", "JavaScript"],
-            "databases": ["MongoDB", "MySQL", "Oracle"],
-            "tools": ["Git", "VSCode", "Linux (Fedora KDE)"]
-        }
-
-    def current_status(self):
-        return "Learning advanced AI/ML techniques | Linux lover"
-```
 
 ---
 
@@ -143,8 +126,9 @@ class MehediMonir:
 
 <div align="center">
 
-### 💭 *"Exploration is beautiful and endless, driven by curiosity and shaped by patience."* 
+### 💭 *"Exploration is the essence of curiosity — every step uncovers a new world."*
 
+### 💭 *"The joy of exploration lies not in the destination, but in the journey itself."*
 
 <sub>⭐️ From [mehedi-monir](https://github.com/mehedi-monir) | Built with 💙 and lots of ☕</sub>
 
