@@ -3,7 +3,7 @@
   
 # 💻 Mehedi Hasan Monir
 
-### Computer Science & Engineering Student | AI/ML Enthusiast | Linux Lover
+### I am a student of CSE at PSTU.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Exploration+is+beautiful+and+endless,+driven+by+curiosity+and+shaped+by+patience." alt="Typing SVG" />
 
